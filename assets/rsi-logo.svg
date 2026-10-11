@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 86" role="img" aria-labelledby="title desc">
+  <title id="title">RSI</title>
+  <desc id="desc">Repuestos, Suministros e Importaciones</desc>
+  <g fill="none" stroke="#ff6b00" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M10 68 18 15h72l-3 17"/>
+    <path d="M14 68h65l8-17"/>
+    <path d="M77 10h16l-2 14"/>
+  </g>
+  <g fill="#ff6b00">
+    <path d="M88 51h8l-12 19-7-7z"/>
+    <path d="M22 55h7l4-28h-7z" opacity=".5"/>
+  </g>
+  <text x="38" y="57" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="33" font-style="italic" font-weight="800" letter-spacing="-2">RSI</text>
+  <path d="M112 18v50" stroke="#fff" stroke-opacity=".28"/>
+  <text x="132" y="36" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.3">REPUESTOS · SUMINISTROS</text>
+  <text x="132" y="59" fill="#ff9a52" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3.2">IMPORTACIONES</text>
+</svg>
