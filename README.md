@@ -28,4 +28,4 @@ npm run build:css
 - Contacto general: `info@rsirepuestos.com`
 - Teléfono y WhatsApp: `+503 6845-7930`
 
-Publique `index.html`, `productos-temperatura.html`, `script.js`, `styles.css`, `contact.php`, `.htaccess` y la carpeta `assets/` en la raíz web del dominio. Mantenga habilitados HTTPS, ModSecurity y las políticas SPF/DKIM del correo.
+Publique `index.html`, `productos-temperatura.html`, `script.js`, `styles.css`, `contact.php`, `.htaccess`, `robots.txt`, `sitemap.xml`, `favicon.ico` y la carpeta `assets/` en la raíz web del dominio. Cada vez que se agregue una página, súmela a `sitemap.xml`. Mantenga habilitados HTTPS, ModSecurity y las políticas SPF/DKIM del correo.
